@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+plotly
+datetime
+streamlit
+joblib
+statsmodels
+keras
